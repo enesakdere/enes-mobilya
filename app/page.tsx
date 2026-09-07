@@ -1,4 +1,4 @@
-import { AboutSection } from '@/components/about-section'
+un  import { AboutSection } from '@/components/about-section'
 import { BeforeAfterSection } from '@/components/before-after-section'
 import { CartDrawer } from '@/components/cart-drawer'
 import { ContactSection } from '@/components/contact-section'
@@ -16,10 +16,10 @@ export default function HomePage() {
       <SiteHeader />
       <main>
         <HeroSection />
-        <ProductsSection />
-        <DealsSection />
-        <BeforeAfterSection />
-        <ServicesSection />
+<BeforeAfterSection />
+<ServicesSection />
+<ProductsSection />
+<DealsSection />
         <AboutSection />
         <ContactSection />
       </main>
