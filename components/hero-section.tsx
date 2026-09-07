@@ -11,7 +11,7 @@ export function HeroSection() {
     <section id="ana-sayfa" className="relative scroll-mt-16 overflow-hidden">
       <div className="absolute inset-0">
         <Image
-          src="/hero-sofa.png"
+          src="/DB0DE30A-B764-4454-A505-E95FB3B49B65.png"
           alt="Yenilenmiş premium koltuk ile şık bir oturma odası"
           fill
           priority
