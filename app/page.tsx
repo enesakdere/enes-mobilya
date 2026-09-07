@@ -1,4 +1,4 @@
-un  import { AboutSection } from '@/components/about-section'
+import { AboutSection } from '@/components/about-section'
 import { BeforeAfterSection } from '@/components/before-after-section'
 import { CartDrawer } from '@/components/cart-drawer'
 import { ContactSection } from '@/components/contact-section'
