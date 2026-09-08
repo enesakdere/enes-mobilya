@@ -59,7 +59,7 @@ export function BeforeAfterSection() {
           >
             {/* After (base layer) */}
             <Image
-              src="/before-after/sonrasi.png"
+              src="/before-after/sonrasi.PNG"
               alt="Yenileme sonrası tazelenmiş koltuk"
               fill
               sizes="(max-width: 1024px) 100vw, 896px"
