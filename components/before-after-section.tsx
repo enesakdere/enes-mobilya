@@ -75,7 +75,7 @@ export function BeforeAfterSection() {
               style={{ clipPath: `inset(0 ${100 - position}% 0 0)` }}
             >
               <Image
-                src="/before-after/oncesi.png"
+src="/before-after/oncesi.PNG"
                 alt="Yenileme öncesi eskimiş koltuk"
                 fill
                 sizes="(max-width: 1024px) 100vw, 896px"
