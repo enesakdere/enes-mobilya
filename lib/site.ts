@@ -133,21 +133,21 @@ export const products: Product[] = [
     name: 'Porto Koltuk Takımı',
     description: 'Porto model koltuk takımı.',
     price: 89000,
-    image: '/products/05A30EBE-83CB-4ADA-A4CD-40C143F0A0D6.jpeg',
+image: '/products/19CF6132-93C0-4796-A195-41B8FA1FF1CC.png',
   },
   {
     id: 'porto-kanepe',
     name: 'Porto Kanepe',
     description: 'Porto model kanepe.',
     price: 35000,
-    image: '/products/05A30EBE-83CB-4ADA-A4CD-40C143F0A0D6.jpeg',
+image: '/products/294C8DAA-EE44-4A34-8C28-AE563A80F651.png',
   },
   {
     id: 'porto-berjer',
     name: 'Porto Berjer',
     description: 'Porto model berjer.',
     price: 13800,
-    image: '/products/05A30EBE-83CB-4ADA-A4CD-40C143F0A0D6.jpeg',
+image: '/products/88159513-4F0D-4E8B-AA95-15FC8E267CF1.png',
   },
 ]
 
