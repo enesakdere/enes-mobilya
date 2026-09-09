@@ -162,39 +162,18 @@ export type Deal = {
   sold?: boolean
 }
 
-export const deals: Deal[] = [
+
+  
+  export const deals: Deal[] = [
   {
-    id: 'ikinci-el-koltuk',
-    name: 'Fırsat ürünü 3+3+1+1 Koltuk Takımı',
-    description: '
-    oldPrice: 85000,
+    id: 'firsat-koltuk-takimi',
+    name: 'Fırsat Koltuk Takımı',
+    description: '3+3+1+1 modern koltuk takımı. Sınırlı stok.',
+    oldPrice: 92000,
     price: 59999,
-    image: '/deals/ikinci-el-koltuk.png',
+    image: '/deals/B1BEE287-4056-4573-9AB3-722B4A34B86F.png',
   },
-  {
-    id: 'ikinci-el-yemek-masasi',
-    name: 'İkinci El Yemek Masası (4 Sandalye)',
-    description: 'Masif ahşap yemek masası ve dört sandalye, sağlam yapı.',
-    oldPrice: 7200,
-    price: 4250,
-    image: '/deals/ikinci-el-yemek-masasi.png',
-  },
-  {
-    id: 'ikinci-el-tv-unitesi',
-    name: 'İkinci El TV Ünitesi',
-    description: 'Ceviz renkli modern TV ünitesi, temiz durumda.',
-    price: 2300,
-    image: '/deals/ikinci-el-tv-unitesi.png',
-  },
-  {
-    id: 'ikinci-el-gardirop',
-    name: 'İkinci El Sürgülü Gardırop',
-    description: 'Beyaz sürgülü kapaklı gardırop, geniş iç hacim.',
-    oldPrice: 6500,
-    price: 3900,
-    image: '/deals/ikinci-el-gardirop.png',
-    sold: true,
-  },
+]
 ]
 
 export const services = [
