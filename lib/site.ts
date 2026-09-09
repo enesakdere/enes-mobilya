@@ -41,7 +41,7 @@ export const products: Product[] = [
   },
 
   {
-    {
+  
   id: 'damla-takim',
   name: 'Damla Koltuk Takımı',
   description: 'Damla model koltuk takımı.',
