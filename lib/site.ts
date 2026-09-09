@@ -165,10 +165,10 @@ export type Deal = {
 export const deals: Deal[] = [
   {
     id: 'ikinci-el-koltuk',
-    name: 'İkinci El 3+2 Koltuk Takımı',
-    description: 'Az kullanılmış, bakımlı keten kumaş koltuk takımı.',
-    oldPrice: 14500,
-    price: 8900,
+    name: 'Fırsat ürünü 3+3+1+1 Koltuk Takımı',
+    description: '
+    oldPrice: 85000,
+    price: 59999,
     image: '/deals/ikinci-el-koltuk.png',
   },
   {
