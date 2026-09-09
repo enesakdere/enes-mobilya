@@ -133,7 +133,7 @@ export const products: Product[] = [
     name: 'Porto Koltuk Takımı',
     description: 'Porto model koltuk takımı.',
     price: 89000,
-image: '/products/19CF6132-93C0-4796-A195-41B8FA1FF1CC.png',
+image: "/products/19CF6132-93C0-4796-A195-41B8FA1EF1CC.png",
   },
   {
     id: 'porto-kanepe',
