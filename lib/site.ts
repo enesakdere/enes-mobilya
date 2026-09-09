@@ -85,26 +85,28 @@ export const products: Product[] = [
   },
 
   {
-    
+  {
   id: 'zenhart-takim',
   name: 'Zenhart Koltuk Takımı',
   description: 'Zenhart model koltuk takımı.',
   price: 92000,
-  image: '/products/DOSYA-ADI-1.png',
+  image: '/products/2FCA6F29-1B4E-4EC3-903B-EBD17CB34CD0.png',
 },
 {
   id: 'zenhart-kanepe',
   name: 'Zenhart Kanepe',
   description: 'Zenhart model kanepe.',
   price: 36500,
-  image: '/products/DOSYA-ADI-2.png',
+  image: '/products/34ECEFA5-0573-480C-9E00-81B419EDEDB4.png',
 },
 {
   id: 'zenhart-berjer',
   name: 'Zenhart Berjer',
   description: 'Zenhart model berjer.',
   price: 13800,
-  image: '/products/DOSYA-ADI-3.png',
+  image: '/products/610708C6-EBBF-4524-AB4A-F67F8D5A0C30.png',
+},  
+
 },
 
   {
