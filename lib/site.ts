@@ -61,7 +61,7 @@ export const products: Product[] = [
   description: 'Damla model berjer.',
   price: 13800,
   image: '/products/9E24B621-3B67-4232-96B5-22100F485D3D.png',
-},
+
   },
 {
   id: 'atlantik-takim',
