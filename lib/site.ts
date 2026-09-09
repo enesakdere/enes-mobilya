@@ -175,7 +175,6 @@ export type Deal = {
   },
 ]
 
-
 export const services = [
   {
     title: 'Mobilya Yenileme',
