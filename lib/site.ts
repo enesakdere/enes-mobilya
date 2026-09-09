@@ -61,27 +61,29 @@ export const products: Product[] = [
     price: 13800,
     image: '/products/damla.png',
   },
-
+{
+  id: 'atlantik-takim',
+  name: 'Atlantik Koltuk Takımı',
+  description: 'Atlantik model koltuk takımı.',
+  price: 92000,
+  image: '/products/5D72A37A-4D9A-4232-A37B-D4BB0096CC81.png',
+},
+{
+  id: 'atlantik-kanepe',
+  name: 'Atlantik Kanepe',
+  description: 'Atlantik model kanepe.',
+  price: 36500,
+  image: '/products/59AEA33A-1EF7-4C26-BDA9-010858C6D6A3.png',
+},
+{
+  id: 'atlantik-berjer',
+  name: 'Atlantik Berjer',
+  description: 'Atlantik model berjer.',
+  price: 13800,
+  image: '/products/2EEBE324-1068-4261-B1EA-F42504A1DF29.png',
+},
   {
-    id: 'atlantik-takim',
-    name: 'Atlantik Koltuk Takımı',
-    description: 'Atlantik model koltuk takımı.',
-    price: 88000,
-    image: '/products/atlantik.png',
-  },
-  {
-    id: 'atlantik-kanepe',
-    name: 'Atlantik Kanepe',
-    description: 'Atlantik model kanepe.',
-    price: 34000,
-    image: '/products/atlantik.png',
-  },
-  {
-    id: 'atlantik-berjer',
-    name: 'Atlantik Berjer',
-    description: 'Atlantik model berjer.',
-    price: 13800,
-    image: '/products/atlantik.png',
+    
   },
 
   {
