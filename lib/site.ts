@@ -173,6 +173,13 @@ export type Deal = {
     price: 59999,
     image: '/deals/B1BEE287-4056-4573-9AB3-722B4A34B86F.png',
   },
+{
+  id: '3x3-kose-takimi',
+  name: '3x3 Köşe Takımı',
+  description: '3 x 3 metre modern ve şık köşe takımı.',
+  price: 45000,
+  image: '/deals/a_polished_commercial_interior_design_advertisemen.png',
+},
 ]
 
 export const services = [
