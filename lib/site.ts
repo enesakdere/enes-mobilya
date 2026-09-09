@@ -19,25 +19,26 @@ export type Product = {
 
 export const products: Product[] = [
   {
-    id: 'mira-takim',
-    name: 'Mira Koltuk Takımı',
-    description: 'Mira model koltuk takımı.',
-    price: 89000,
-    image: '/products/mira.png',
-  },
-  {
-    id: 'mira-kanepe',
-    name: 'Mira Kanepe',
-    description: 'Mira model kanepe.',
-    price: 35000,
-    image: '/products/mira.png',
-  },
-  {
-    id: 'mira-berjer',
-    name: 'Mira Berjer',
-    description: 'Mira model berjer.',
-    price: 13800,
-    image: '/products/mira.png',
+    {
+  id: 'mira-takim',
+  name: 'Mira Koltuk Takımı',
+  description: 'Mira model koltuk takımı.',
+  price: 92000,
+  image: '/products/CD474463-711C-4621-8D5C-E06378C7F2C4.png',
+},
+{
+  id: 'mira-kanepe',
+  name: 'Mira Kanepe',
+  description: 'Mira model kanepe.',
+  price: 36500,
+  image: '/products/40527798-4DFE-41F8-87C5-B06B93C97E32.png',
+},
+{
+  id: 'mira-berjer',
+  name: 'Mira Berjer',
+  description: 'Mira model berjer.',
+  price: 13800,
+  image: '/products/9E24B621-3B67-4232-96B5-22100F485D3D.png',
   },
   {
   id: 'damla-takim',
