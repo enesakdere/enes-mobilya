@@ -18,7 +18,6 @@ export type Product = {
 }
 
 export const products: Product[] = [
-  {
     {
   id: 'mira-takim',
   name: 'Mira Koltuk Takımı',
