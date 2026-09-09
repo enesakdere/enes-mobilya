@@ -41,25 +41,27 @@ export const products: Product[] = [
   },
 
   {
-    id: 'damla-takim',
-    name: 'Damla Koltuk Takımı',
-    description: 'Damla model koltuk takımı.',
-    price: 89000,
-    image: '/products/damla.png',
-  },
-  {
-    id: 'damla-kanepe',
-    name: 'Damla Kanepe',
-    description: 'Damla model kanepe.',
-    price: 35000,
-    image: '/products/damla.png',
-  },
-  {
-    id: 'damla-berjer',
-    name: 'Damla Berjer',
-    description: 'Damla model berjer.',
-    price: 13800,
-    image: '/products/damla.png',
+    {
+  id: 'damla-takim',
+  name: 'Damla Koltuk Takımı',
+  description: 'Damla model koltuk takımı.',
+  price: 92000,
+  image: '/products/B7CA7BFA-48F1-4513-8552-70B5EE763B5E.png',
+},
+{
+  id: 'damla-kanepe',
+  name: 'Damla Kanepe',
+  description: 'Damla model kanepe.',
+  price: 36500,
+  image: '/products/E642FE72-3B88-4DFB-99F4-3F2CA8A99066.png',
+},
+{
+  id: 'damla-berjer',
+  name: 'Damla Berjer',
+  description: 'Damla model berjer.',
+  price: 13800,
+  image: '/products/9E24B621-3B67-4232-96B5-22100F485D3D.png',
+},
   },
 {
   id: 'atlantik-takim',
