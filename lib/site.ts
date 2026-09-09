@@ -81,8 +81,6 @@ export const products: Product[] = [
   description: 'Atlantik model berjer.',
   price: 13800,
   image: '/products/2EEBE324-1068-4261-B1EA-F42504A1DF29.png',
-},
-  {
     
   },
 
