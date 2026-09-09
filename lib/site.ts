@@ -107,7 +107,7 @@ export const products: Product[] = [
   },
 
   {
-    {
+    
   id: 'bohem-takim',
   name: 'Bohem Koltuk Takımı',
   description: 'Bohem model koltuk takımı.',
