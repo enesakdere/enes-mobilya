@@ -1,3 +1,4 @@
+
 export const products: Product[] = [
   {
     id: 'mira-takim',
