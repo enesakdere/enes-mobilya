@@ -174,7 +174,7 @@ export type Deal = {
     image: '/deals/B1BEE287-4056-4573-9AB3-722B4A34B86F.png',
   },
 ]
-]
+
 
 export const services = [
   {
