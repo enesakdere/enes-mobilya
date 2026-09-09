@@ -39,9 +39,7 @@ export const products: Product[] = [
     price: 13800,
     image: '/products/mira.png',
   },
-
   {
-  
   id: 'damla-takim',
   name: 'Damla Koltuk Takımı',
   description: 'Damla model koltuk takımı.',
