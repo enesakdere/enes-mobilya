@@ -85,7 +85,6 @@ export const products: Product[] = [
   },
 
   {
-  {
   id: 'zenhart-takim',
   name: 'Zenhart Koltuk Takımı',
   description: 'Zenhart model koltuk takımı.',
