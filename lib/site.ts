@@ -105,10 +105,7 @@ export const products: Product[] = [
   price: 13800,
   image: '/products/610708C6-EBBF-4524-AB4A-F67F8D5A0C30.png',
 },  
-
-},
-
-  {
+ {
     
   id: 'bohem-takim',
   name: 'Bohem Koltuk Takımı',
