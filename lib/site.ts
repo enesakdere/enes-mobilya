@@ -178,7 +178,7 @@ export type Deal = {
   name: '3x3 Köşe Takımı',
   description: '3 x 3 metre modern ve şık köşe takımı.',
   price: 45000,
-  image: '/deals/a_polished_commercial_interior_design_advertisemen.png',
+image: '/deals/4D1C8595-05CC-4E6F-B478-80C3F30570E7.png',
 },
 ]
 
