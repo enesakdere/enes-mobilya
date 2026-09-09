@@ -107,26 +107,27 @@ export const products: Product[] = [
   },
 
   {
-    id: 'bohem-takim',
-    name: 'Bohem Koltuk Takımı',
-    description: 'Bohem model koltuk takımı.',
-    price: 84000,
-    image: '/products/bohem.png',
-  },
-  {
-    id: 'bohem-kanepe',
-    name: 'Bohem Kanepe',
-    description: 'Bohem model kanepe.',
-    price: 33500,
-    image: '/products/bohem.png',
-  },
-  {
-    id: 'bohem-berjer',
-    name: 'Bohem Berjer',
-    description: 'Bohem model berjer.',
-    price: 12650,
-    image: '/products/bohem.png',
-  },
+    {
+  id: 'bohem-takim',
+  name: 'Bohem Koltuk Takımı',
+  description: 'Bohem model koltuk takımı.',
+  price: 84000,
+  image: '/products/89C5C981-571B-409D-97ED-82A55461B3C6.png',
+},
+{
+  id: 'bohem-kanepe',
+  name: 'Bohem Kanepe',
+  description: 'Bohem model kanepe.',
+  price: 33500,
+  image: '/products/DA3C8231-B456-47D8-9099-C41E75A4748A.png',
+},
+{
+  id: 'bohem-berjer',
+  name: 'Bohem Berjer',
+  description: 'Bohem model berjer.',
+  price: 12650,
+  image: '/products/18CA22C0-75C1-4BB7-B4B8-34F6A48F45E1.png',
+},
 
   {
     id: 'porto-takim',
